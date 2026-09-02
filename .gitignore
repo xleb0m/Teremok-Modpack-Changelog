@@ -1,2 +1,4 @@
-.generate_modlist.py
-.templates.md
+
+generate_modlist.py
+templates.md
+modlist_data.json

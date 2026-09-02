@@ -8,6 +8,20 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 ### Added
+- Nullscape
+- Philip's Ruins
+- Abyssaline Nether
+- Biolith
+- Cristel Lib
+- Dungeons and Taverns
+- Larion World Generation
+- No Man's Land
+- Simple Snowy Fix
+- Snow Under Trees
+- Structurify
+- Towns and Towers
+- YetAnotherConfigLib
+- Architectury
 - Almanac
 - Not Enough Recipe Book
 - OctoLib
