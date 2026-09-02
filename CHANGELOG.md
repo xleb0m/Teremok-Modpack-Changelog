@@ -6,7 +6,7 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ---
 
-## [Unreleased]
+## [s2-pre-alpha.0.1.0+build.1] - 2026-09-02
 ### Added
 - Nullscape
 - Philip's Ruins

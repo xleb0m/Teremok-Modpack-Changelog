@@ -2,3 +2,5 @@
 generate_modlist.py
 templates.md
 modlist_data.json
+bump_version.py
+build_number.txt
