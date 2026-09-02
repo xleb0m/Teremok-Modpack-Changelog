@@ -4,3 +4,4 @@ templates.md
 modlist_data.json
 bump_version.py
 build_number.txt
+run_modlist.bat
