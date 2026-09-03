@@ -6,6 +6,34 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ---
 
+## [s2-pre-alpha.0.2.0+build.3] - 2026-09-03
+### Added
+- ATi Structures - Vanilla Edition
+- Rustic Delight
+- Storage Delight
+- Farmer's Delight
+- FarmersStructures
+- Better Advanced Tooltips
+- Bountiful Fares
+- Bountiful Pears
+- Kaleidoscope: ImmersiveEating
+- Kaleidoscope Compat
+- Kaleidoscope Dimensions wine
+- Kaleidoscope End
+- Kaleidoscope Hodgepodge
+- Kaleidoscope Nether
+- kaleidoscope_sculk
+- Kaleidoscope world liquor
+- Kaleidoscope Cookery
+- Kaleidoscope Tavern
+- KubeJS
+- KubeJS Kaleidoscope
+- NexusLib
+- No Man's Delight
+- Rhino
+
+---
+
 ## [s2-pre-alpha.0.1.0+build.2] - 2026-09-02
 ### Added
 - ATi Structures
@@ -81,4 +109,3 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Reese's Sodium Options
 - Sodium Extra
 - Sodium
-
