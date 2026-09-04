@@ -16,6 +16,60 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Fixed
 - 
 
+## [s2-pre-alpha.0.4.0+build.6] - 2026-09-04
+### Removed
+- Chefs Delight
+- GeckoLib 4
+- Kaleidoscope: ImmersiveEating
+- AdvancedCoreInfo
+- AdvancedLootInfo
+- Item Obliterator
+- Jade
+- Jade Addons
+- Just Enough Resources
+- Necronomicon
+- Ancient Remnants
+- Catalogue
+- Configured
+- EMI
+- KubeJS Custom Rarity
+- KubeJSDelight
+- LootJS
+- Medieval Buildings
+- Medieval Buildings Nether Edition
+- Nautilus Studio
+- PacketFixer
+- Reliable EMI
+- Rustic Delight
+- spark
+- Storage Delight
+- KubeJS GUI 2
+- TooManyRecipeViewers
+- TMRV JEI Stub
+- ATi Structures - Vanilla Edition
+- Rustic Delight
+- Storage Delight
+- Farmer's Delight
+- FarmersStructures
+- Better Advanced Tooltips
+- Bountiful Fares
+- Bountiful Pears
+- Kaleidoscope: ImmersiveEating
+- Kaleidoscope Compat
+- Kaleidoscope Dimensions wine
+- Kaleidoscope End
+- Kaleidoscope Hodgepodge
+- Kaleidoscope Nether
+- kaleidoscope_sculk
+- Kaleidoscope world liquor
+- Kaleidoscope Cookery
+- Kaleidoscope Tavern
+- KubeJS
+- KubeJS Kaleidoscope
+- NexusLib
+- No Man's Delight
+- Rhino
+
 ## [s2-pre-alpha.0.3.0+build.4] - 2026-09-04
 ### Added
 - Chefs Delight
@@ -84,6 +138,42 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - NexusLib
 - No Man's Delight
 - Rhino
+- ATi Structures
+- Dungeons and Taverns Ancient City Overhaul
+- Dungeons and Taverns Desert Temple Replacement
+- Dungeons and Taverns End Castle Standalone
+- Dungeons and Taverns Jungle Temple Replacement
+- Dungeons and Taverns Nether Fortress Overhaul
+- Dungeons and Taverns Ocean Monument Replacement
+- Dungeons and Taverns Pillager Outpost Overhaul
+- Dungeons and Taverns Stronghold Overhaul
+- Dungeons and Taverns Swamp Hut Overhaul
+- Dungeons and Taverns Woodland Mansion Replacement
+- Not Enough Trials Miscellaneous Compat
+- Not Enough Trials
+- YUNG's API
+- Ancient Remnants
+- Wetland Whimsy
+- Explorify
+- Galosphere
+- Hellish Trials
+- HopoBetterMineshaft
+- HopoBetterRuinedPortals
+- HopoBetterUnderwaterRuins
+- MoogsEndStructures
+- MoogsNetherStructures
+- Moog's Structure Lib
+- Platform
+- ScalableLux
+- Structory
+- VanillaBackport
+- DEUF - Duplicate Entity UUID Fix
+- Explorations+
+- Medieval Buildings
+- Medieval Buildings [Nether Edition]
+- Valhelsia Core
+- Valhelsia Structures
+- Wits
 
 ---
 
@@ -125,6 +215,38 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Valhelsia Core
 - Valhelsia Structures
 - Wits
+- Nullscape
+- Philip's Ruins
+- Abyssaline Nether
+- Biolith
+- Cristel Lib
+- Dungeons and Taverns
+- Larion World Generation
+- No Man's Land
+- Simple Snowy Fix
+- Snow Under Trees
+- Structurify
+- Towns and Towers
+- YetAnotherConfigLib
+- Architectury
+- Almanac
+- Not Enough Recipe Book
+- OctoLib
+- Cloth Config v15 API
+- Dynamic FPS
+- EntityCulling
+- Fast Paintings
+- Ferrite Core
+- Krypton FNP
+- Let Me Despawn
+- Lithium
+- ModernFix
+- Moonlight Lib
+- More Culling
+- Noisium
+- Reese's Sodium Options
+- Sodium Extra
+- Sodium
 
 ---
 

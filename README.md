@@ -18,17 +18,10 @@ This repository is the official changelog for the **[Project Name]** Minecraft p
 ### Mods by category
 
 <!-- CATEGORY_TABLE_EN_START -->
-**Total mods: 104** — full table: [modlist.md](./modlist.md)
+**Total mods: 0** — full table: [modlist.md](./modlist.md)
 
 | Category | Count | Description |
 |----------|:-----:|-------------|
-| [Adventure](./modlist/adventure.md) | 2 | Dungeons, bosses, quests, new dimensions |
-| [Decoration](./modlist/decoration.md) | 1 | Purely cosmetic blocks/items with no gameplay impact |
-| [Food](./modlist/food.md) | 12 | Cooking, farming, and food-related content |
-| [Library](./modlist/library.md) | 14 | API mods required by other mods; usually no player-facing content |
-| [Performance](./modlist/performance.md) | 15 | FPS improvements, chunk loading, memory/CPU usage |
-| [Utility](./modlist/utility.md) | 19 | Recipe viewers, maps, inventory management, info overlays |
-| [World Generation](./modlist/world-generation.md) | 41 | New biomes, structures, terrain features |
 <!-- CATEGORY_TABLE_EN_END -->
 
 *A category only appears here once at least one mod has been sorted into it. This table is auto-generated — do not edit it by hand, your changes will be overwritten on the next run.*
@@ -98,17 +91,10 @@ Want to read more news, meet other players, chat with the community, or hop in a
 ### Моды по категориям
 
 <!-- CATEGORY_TABLE_RU_START -->
-**Всего модов: 104** — полная таблица: [modlist.md](./modlist.md)
+**Всего модов: 0** — полная таблица: [modlist.md](./modlist.md)
 
 | Категория | Количество | Описание |
 |-----------|:----------:|----------|
-| [Adventure](./modlist/adventure.md) | 2 | Подземелья, боссы, квесты, новые измерения |
-| [Decoration](./modlist/decoration.md) | 1 | Чисто косметические блоки/предметы без влияния на геймплей |
-| [Food](./modlist/food.md) | 12 | Готовка, фермерство и контент, связанный с едой |
-| [Library](./modlist/library.md) | 14 | API-моды, необходимые другим модам; обычно без игрового контента |
-| [Performance](./modlist/performance.md) | 15 | Улучшение FPS, загрузка чанков, использование памяти/CPU |
-| [Utility](./modlist/utility.md) | 19 | Просмотр рецептов, карты, управление инвентарём, оверлеи |
-| [World Generation](./modlist/world-generation.md) | 41 | Новые биомы, структуры, особенности рельефа |
 <!-- CATEGORY_TABLE_RU_END -->
 
 *Категория появляется здесь только тогда, когда в неё попал хотя бы один мод. Эта таблица генерируется автоматически — не редактируйте её вручную, правки будут перезаписаны при следующем запуске.*
