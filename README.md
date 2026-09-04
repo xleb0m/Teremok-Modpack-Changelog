@@ -6,7 +6,7 @@
 
 # [YDWS/Teremok] — Modpack Changelog
 
-This repository is the official changelog for the **[Project Name]** Minecraft project, where all changes to the server modpack are published.
+This repository is the official changelog for the **[YDWS/Teremok]** Minecraft project, where all changes to the server modpack are published.
 
 ### Navigation
 
@@ -79,7 +79,7 @@ Want to read more news, meet other players, chat with the community, or hop in a
 
 # [YDWS/Теремок Бабы-Яги] — Чейнджлог сборки
 
-Данный репозиторий является официальным чейнджлогом майнкрафт-проекта **[Название проекта]**, где публикуются все изменения в сборке сервера.
+Данный репозиторий является официальным чейнджлогом майнкрафт-проекта **[YDWS/Теремок Бабы-Яги]**, где публикуются все изменения в сборке сервера.
 
 ### Навигация
 
