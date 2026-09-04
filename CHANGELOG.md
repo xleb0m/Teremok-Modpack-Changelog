@@ -16,6 +16,19 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Fixed
 - 
 
+## [s2-pre-alpha.0.5.0+build.7] - 2026-09-04
+### Added
+- Almanac
+- BandwidthOptimizer
+- ScalableLux
+- Disconnect Packet Fix
+- Fast Paintings
+- Ferrite Core
+- Krypton FNP
+- Let Me Despawn
+- Lithium
+- Moonlight Lib
+- Noisium
 ## [s2-pre-alpha.0.4.0+build.6] - 2026-09-04
 ### Removed
 - Chefs Delight

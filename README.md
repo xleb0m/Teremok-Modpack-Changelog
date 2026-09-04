@@ -18,10 +18,13 @@ This repository is the official changelog for the **[YDWS/Teremok]** Minecraft p
 ### Mods by category
 
 <!-- CATEGORY_TABLE_EN_START -->
-**Total mods: 0** — full table: [modlist.md](./modlist.md)
+**Total mods: 11** — full table: [modlist.md](./modlist.md)
 
 | Category | Count | Description |
 |----------|:-----:|-------------|
+| [Library](./modlist/library.md) | 2 | API mods required by other mods; usually no player-facing content |
+| [Performance](./modlist/performance.md) | 8 | FPS improvements, chunk loading, memory/CPU usage |
+| [Utility](./modlist/utility.md) | 1 | Recipe viewers, maps, inventory management, info overlays |
 <!-- CATEGORY_TABLE_EN_END -->
 
 *A category only appears here once at least one mod has been sorted into it. This table is auto-generated — do not edit it by hand, your changes will be overwritten on the next run.*
@@ -91,10 +94,13 @@ Want to read more news, meet other players, chat with the community, or hop in a
 ### Моды по категориям
 
 <!-- CATEGORY_TABLE_RU_START -->
-**Всего модов: 0** — полная таблица: [modlist.md](./modlist.md)
+**Всего модов: 11** — полная таблица: [modlist.md](./modlist.md)
 
 | Категория | Количество | Описание |
 |-----------|:----------:|----------|
+| [Library](./modlist/library.md) | 2 | API-моды, необходимые другим модам; обычно без игрового контента |
+| [Performance](./modlist/performance.md) | 8 | Улучшение FPS, загрузка чанков, использование памяти/CPU |
+| [Utility](./modlist/utility.md) | 1 | Просмотр рецептов, карты, управление инвентарём, оверлеи |
 <!-- CATEGORY_TABLE_RU_END -->
 
 *Категория появляется здесь только тогда, когда в неё попал хотя бы один мод. Эта таблица генерируется автоматически — не редактируйте её вручную, правки будут перезаписаны при следующем запуске.*
