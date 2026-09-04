@@ -18,13 +18,15 @@ This repository is the official changelog for the **[YDWS/Teremok]** Minecraft p
 ### Mods by category
 
 <!-- CATEGORY_TABLE_EN_START -->
-**Total mods: 11** — full table: [modlist.md](./modlist.md)
+**Total mods: 42** — full table: [modlist.md](./modlist.md)
 
 | Category | Count | Description |
 |----------|:-----:|-------------|
-| [Library](./modlist/library.md) | 2 | API mods required by other mods; usually no player-facing content |
+| [Adventure](./modlist/adventure.md) | 19 | Dungeons, bosses, quests, new dimensions |
+| [Library](./modlist/library.md) | 8 | API mods required by other mods; usually no player-facing content |
 | [Performance](./modlist/performance.md) | 8 | FPS improvements, chunk loading, memory/CPU usage |
-| [Utility](./modlist/utility.md) | 1 | Recipe viewers, maps, inventory management, info overlays |
+| [Utility](./modlist/utility.md) | 2 | Recipe viewers, maps, inventory management, info overlays |
+| [World Generation](./modlist/world-generation.md) | 5 | New biomes, structures, terrain features |
 <!-- CATEGORY_TABLE_EN_END -->
 
 *A category only appears here once at least one mod has been sorted into it. This table is auto-generated — do not edit it by hand, your changes will be overwritten on the next run.*
@@ -94,13 +96,15 @@ Want to read more news, meet other players, chat with the community, or hop in a
 ### Моды по категориям
 
 <!-- CATEGORY_TABLE_RU_START -->
-**Всего модов: 11** — полная таблица: [modlist.md](./modlist.md)
+**Всего модов: 42** — полная таблица: [modlist.md](./modlist.md)
 
 | Категория | Количество | Описание |
 |-----------|:----------:|----------|
-| [Library](./modlist/library.md) | 2 | API-моды, необходимые другим модам; обычно без игрового контента |
+| [Adventure](./modlist/adventure.md) | 19 | Подземелья, боссы, квесты, новые измерения |
+| [Library](./modlist/library.md) | 8 | API-моды, необходимые другим модам; обычно без игрового контента |
 | [Performance](./modlist/performance.md) | 8 | Улучшение FPS, загрузка чанков, использование памяти/CPU |
-| [Utility](./modlist/utility.md) | 1 | Просмотр рецептов, карты, управление инвентарём, оверлеи |
+| [Utility](./modlist/utility.md) | 2 | Просмотр рецептов, карты, управление инвентарём, оверлеи |
+| [World Generation](./modlist/world-generation.md) | 5 | Новые биомы, структуры, особенности рельефа |
 <!-- CATEGORY_TABLE_RU_END -->
 
 *Категория появляется здесь только тогда, когда в неё попал хотя бы один мод. Эта таблица генерируется автоматически — не редактируйте её вручную, правки будут перезаписаны при следующем запуске.*

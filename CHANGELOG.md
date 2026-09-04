@@ -16,6 +16,39 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Fixed
 - 
 
+## [s2-pre-alpha.0.6.0+build.8] - 2026-09-05
+### Added
+- Dungeons and Taverns Ancient City Overhaul
+- Dungeons and Taverns Desert Temple Replacement
+- Dungeons and Taverns End Castle Standalone
+- Dungeons and Taverns Jungle Temple Replacement
+- Dungeons and Taverns Nether Fortress Overhaul
+- Dungeons and Taverns Ocean Monument Replacement
+- Dungeons and Taverns Pillager Outpost Overhaul
+- Dungeons and Taverns Stronghold Overhaul
+- Dungeons and Taverns Swamp Hut Overhaul
+- Dungeons and Taverns Woodland Mansion Replacement
+- MoogsNetherStructures
+- MoogsSoaringStructures
+- Moog's Structure Lib
+- Philip's Ruins
+- Platform
+- TerraBlender
+- Underground Bunkers
+- VanillaBackport
+- Abandoned Structures
+- Abyssaline Nether
+- AdventureDungeons
+- Berezka API
+- Biolith
+- Cloth Config v15 API
+- Cristel Lib
+- Larion World Generation
+- No Man's Land
+- Simple Snowy Fix
+- Snow Under Trees
+- Towns and Towers
+- Wetland Whimsy
 ## [s2-pre-alpha.0.5.0+build.7] - 2026-09-04
 ### Added
 - Almanac
