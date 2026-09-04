@@ -6,6 +6,59 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ---
 
+## [Unreleased]
+### Added
+- 
+### Changed
+- 
+### Removed
+- 
+### Fixed
+- 
+
+## [s2-pre-alpha.0.3.0+build.4] - 2026-09-04
+### Added
+- Chefs Delight
+- GeckoLib 4
+- Kaleidoscope: ImmersiveEating
+- AdvancedCoreInfo
+- AdvancedLootInfo
+- Item Obliterator
+- Jade
+- Jade Addons
+- Just Enough Resources
+- Necronomicon
+- Ancient Remnants
+- Catalogue
+- Configured
+- EMI
+- KubeJS Custom Rarity
+- KubeJSDelight
+- LootJS
+- Medieval Buildings
+- Medieval Buildings Nether Edition
+- Nautilus Studio
+- PacketFixer
+- Reliable EMI
+- Rustic Delight
+- spark
+- Storage Delight
+- KubeJS GUI 2
+- TooManyRecipeViewers
+- TMRV JEI Stub
+
+### Removed
+- Explorify (No longer needed / doesn't fit the build)
+- HopoBetterMineshaft (No longer needed / doesn't fit the build)
+- HopoBetterRuinedPortals (No longer needed / doesn't fit the build)
+- HopoBetterUnderwaterRuins (No longer needed / doesn't fit the build)
+- ModernFix (Incompatible with other mods in the pack)
+- Structory (No longer needed / doesn't fit the build)
+- ATi Structures - Vanilla Edition (No longer needed / doesn't fit the build)
+- Explorations+ (No longer needed / doesn't fit the build)
+
+---
+
 ## [s2-pre-alpha.0.2.0+build.3] - 2026-09-03
 ### Added
 - ATi Structures - Vanilla Edition

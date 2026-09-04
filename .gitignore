@@ -6,3 +6,4 @@ bump_version.py
 build_number.txt
 run_modlist.bat
 modlist_console_config.json
+release_state.json
