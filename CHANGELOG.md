@@ -8,13 +8,20 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 ### Added
-- 
+- Hellish Trials
+- Not Enough Trials
+- YUNG's API
+- Ancient Remnants
+- Architectury
+
 ### Changed
-- 
+- Noisium: 2.7.0 → 2.7.0-1.21.1
 ### Removed
 - 
 ### Fixed
 - 
+
+---
 
 ## [s2-pre-alpha.0.6.0+build.8] - 2026-09-05
 ### Added
@@ -49,6 +56,9 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Snow Under Trees
 - Towns and Towers
 - Wetland Whimsy
+
+---
+
 ## [s2-pre-alpha.0.5.0+build.7] - 2026-09-04
 ### Added
 - Almanac
@@ -62,6 +72,9 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Lithium
 - Moonlight Lib
 - Noisium
+
+---
+
 ## [s2-pre-alpha.0.4.0+build.6] - 2026-09-04
 ### Removed
 - Chefs Delight
@@ -115,6 +128,8 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - NexusLib
 - No Man's Delight
 - Rhino
+
+---
 
 ## [s2-pre-alpha.0.3.0+build.4] - 2026-09-04
 ### Added
