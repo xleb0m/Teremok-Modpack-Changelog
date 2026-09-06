@@ -8,19 +8,51 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 ### Added
+- 
+### Changed
+- 
+### Removed
+- 
+### Fixed
+- 
+
+---
+
+## [s2-pre-alpha.0.7.0+build.1] - 2026-09-06
+### Added
+- Halcyon
+- Patchouli
+- Paxi
+- StreamsReflowing
+- Caelus API
+- Create
+- Create Aeronautics
+- Curios API
+- Databank
+- Eidolon:Repraised
+- EnigmaticLegacy+
+- Unknown — kotlinforforge-5.12.0-all.jar
+- Lingua Mundi
+- Lodestone
+- Malum
+- Manual Labour
+- Manual Labour Hammers
+- Modonomicon
+- Reese's Sodium Options
+- Sable
+- Sodium Extra
+- Sodium
+- Witchery
+- YetAnotherConfigLib
+- Noisium
 - Hellish Trials
 - Not Enough Trials
 - YUNG's API
 - Ancient Remnants
 - Architectury
 
-### Changed
-- Noisium: 2.7.0 → 2.7.0-1.21.1
 ### Removed
-- 
-### Fixed
-- 
-
+- ScalableLux (Incompatible with other pack mods — Incompatabillity with Sable)
 ---
 
 ## [s2-pre-alpha.0.6.0+build.8] - 2026-09-05

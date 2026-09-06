@@ -1,6 +1,6 @@
 # World Generation
 
-| Mod Name | Version | Date Added | Updated At | Server | Client | Server & Client |
+| Мод | Версия | Добавлен | Обновлён | Сервер | Клиент | Сервер и клиент |
 |----------|---------|------------|------------|:------:|:------:|:----------------:|
 | Abandoned Structures | 1.4.0 | 2026-09-05 | 2026-09-05 |  |  | ✅ |
 | Abyssaline Nether | 1.0.1 | 2026-09-05 | 2026-09-05 |  |  | ✅ |

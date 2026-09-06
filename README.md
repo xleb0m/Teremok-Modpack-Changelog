@@ -18,15 +18,16 @@ This repository is the official changelog for the **[YDWS/Teremok]** Minecraft p
 ### Mods by category
 
 <!-- CATEGORY_TABLE_EN_START -->
-**Total mods: 47** — full table: [modlist.md](./modlist.md)
+**Total mods: 70** — full table: [modlist.md](./modlist.md)
 
 | Category | Count | Description |
 |----------|:-----:|-------------|
-| [Adventure](./modlist/adventure.md) | 5 | Dungeons, bosses, quests, new dimensions |
-| [Game Mechanics](./modlist/game-mechanics.md) | 1 | Changes to core vanilla systems, not tied to a specific theme |
-| [Library](./modlist/library.md) | 10 | API mods required by other mods; usually no player-facing content |
-| [Performance](./modlist/performance.md) | 7 | FPS improvements, chunk loading, memory/CPU usage |
-| [Utility](./modlist/utility.md) | 2 | Recipe viewers, maps, inventory management, info overlays |
+| [Adventure](./modlist/adventure.md) | 11 | Dungeons, bosses, quests, new dimensions |
+| [Library](./modlist/library.md) | 19 | API mods required by other mods; usually no player-facing content |
+| [Misc](./modlist/misc.md) | 1 | Anything that doesn't fit cleanly elsewhere |
+| [Performance](./modlist/performance.md) | 8 | FPS improvements, chunk loading, memory/CPU usage |
+| [Technology](./modlist/technology.md) | 4 | Machines, power generation, industrial processing |
+| [Utility](./modlist/utility.md) | 5 | Recipe viewers, maps, inventory management, info overlays |
 | [World Generation](./modlist/world-generation.md) | 22 | New biomes, structures, terrain features |
 <!-- CATEGORY_TABLE_EN_END -->
 
@@ -97,15 +98,16 @@ Want to read more news, meet other players, chat with the community, or hop in a
 ### Моды по категориям
 
 <!-- CATEGORY_TABLE_RU_START -->
-**Всего модов: 47** — полная таблица: [modlist.md](./modlist.md)
+**Всего модов: 70** — полная таблица: [modlist.md](./modlist.md)
 
 | Категория | Количество | Описание |
 |-----------|:----------:|----------|
-| [Adventure](./modlist/adventure.md) | 5 | Подземелья, боссы, квесты, новые измерения |
-| [Game Mechanics](./modlist/game-mechanics.md) | 1 | Изменения базовых ванильных систем, не привязанные к теме |
-| [Library](./modlist/library.md) | 10 | API-моды, необходимые другим модам; обычно без игрового контента |
-| [Performance](./modlist/performance.md) | 7 | Улучшение FPS, загрузка чанков, использование памяти/CPU |
-| [Utility](./modlist/utility.md) | 2 | Просмотр рецептов, карты, управление инвентарём, оверлеи |
+| [Adventure](./modlist/adventure.md) | 11 | Подземелья, боссы, квесты, новые измерения |
+| [Library](./modlist/library.md) | 19 | API-моды, необходимые другим модам; обычно без игрового контента |
+| [Misc](./modlist/misc.md) | 1 | Всё, что не вписывается чётко в другие категории |
+| [Performance](./modlist/performance.md) | 8 | Улучшение FPS, загрузка чанков, использование памяти/CPU |
+| [Technology](./modlist/technology.md) | 4 | Машины, генерация энергии, промышленная обработка |
+| [Utility](./modlist/utility.md) | 5 | Просмотр рецептов, карты, управление инвентарём, оверлеи |
 | [World Generation](./modlist/world-generation.md) | 22 | Новые биомы, структуры, особенности рельефа |
 <!-- CATEGORY_TABLE_RU_END -->
 
