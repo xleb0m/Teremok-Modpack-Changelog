@@ -1,5 +1,5 @@
-# Misc
+# Storage
 
 | Мод | Версия | Добавлен | Обновлён | Сервер | Клиент | Сервер и клиент |
 |----------|---------|------------|------------|:------:|:------:|:----------------:|
-| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | 0.9.3 | 2026-09-06 | 2026-09-06 |  | ✅ |  |
+| [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry) | 2.5.3b | 2026-09-09 | 2026-09-09 |  |  |  |

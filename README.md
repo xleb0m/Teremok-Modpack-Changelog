@@ -18,16 +18,20 @@ This repository is the official changelog for the **[YDWS/Teremok]** Minecraft p
 ### Mods by category
 
 <!-- CATEGORY_TABLE_EN_START -->
-**Total mods: 70** — full table: [modlist.md](./modlist.md)
+**Total mods: 83** — full table: [modlist.md](./modlist.md)
 
 | Category | Count | Description |
 |----------|:-----:|-------------|
-| [Adventure](./modlist/adventure.md) | 11 | Dungeons, bosses, quests, new dimensions |
-| [Library](./modlist/library.md) | 19 | API mods required by other mods; usually no player-facing content |
+| [Adventure](./modlist/adventure.md) | 13 | Dungeons, bosses, quests, new dimensions |
+| [Decoration](./modlist/decoration.md) | 4 | Purely cosmetic blocks/items with no gameplay impact |
+| [Equipment](./modlist/equipment.md) | 1 | Armor, tools, and weapons |
+| [Game Mechanics](./modlist/game-mechanics.md) | 2 | Changes to core vanilla systems, not tied to a specific theme |
+| [Library](./modlist/library.md) | 20 | API mods required by other mods; usually no player-facing content |
 | [Misc](./modlist/misc.md) | 1 | Anything that doesn't fit cleanly elsewhere |
 | [Performance](./modlist/performance.md) | 8 | FPS improvements, chunk loading, memory/CPU usage |
+| [Storage](./modlist/storage.md) | 1 | Chests, backpacks, item/fluid management |
 | [Technology](./modlist/technology.md) | 4 | Machines, power generation, industrial processing |
-| [Utility](./modlist/utility.md) | 5 | Recipe viewers, maps, inventory management, info overlays |
+| [Utility](./modlist/utility.md) | 7 | Recipe viewers, maps, inventory management, info overlays |
 | [World Generation](./modlist/world-generation.md) | 22 | New biomes, structures, terrain features |
 <!-- CATEGORY_TABLE_EN_END -->
 
@@ -98,16 +102,20 @@ Want to read more news, meet other players, chat with the community, or hop in a
 ### Моды по категориям
 
 <!-- CATEGORY_TABLE_RU_START -->
-**Всего модов: 70** — полная таблица: [modlist.md](./modlist.md)
+**Всего модов: 83** — полная таблица: [modlist.md](./modlist.md)
 
 | Категория | Количество | Описание |
 |-----------|:----------:|----------|
-| [Adventure](./modlist/adventure.md) | 11 | Подземелья, боссы, квесты, новые измерения |
-| [Library](./modlist/library.md) | 19 | API-моды, необходимые другим модам; обычно без игрового контента |
+| [Adventure](./modlist/adventure.md) | 13 | Подземелья, боссы, квесты, новые измерения |
+| [Decoration](./modlist/decoration.md) | 4 | Чисто косметические блоки/предметы без влияния на геймплей |
+| [Equipment](./modlist/equipment.md) | 1 | Броня, инструменты и оружие |
+| [Game Mechanics](./modlist/game-mechanics.md) | 2 | Изменения базовых ванильных систем, не привязанные к теме |
+| [Library](./modlist/library.md) | 20 | API-моды, необходимые другим модам; обычно без игрового контента |
 | [Misc](./modlist/misc.md) | 1 | Всё, что не вписывается чётко в другие категории |
 | [Performance](./modlist/performance.md) | 8 | Улучшение FPS, загрузка чанков, использование памяти/CPU |
+| [Storage](./modlist/storage.md) | 1 | Сундуки, рюкзаки, управление предметами/жидкостями |
 | [Technology](./modlist/technology.md) | 4 | Машины, генерация энергии, промышленная обработка |
-| [Utility](./modlist/utility.md) | 5 | Просмотр рецептов, карты, управление инвентарём, оверлеи |
+| [Utility](./modlist/utility.md) | 7 | Просмотр рецептов, карты, управление инвентарём, оверлеи |
 | [World Generation](./modlist/world-generation.md) | 22 | Новые биомы, структуры, особенности рельефа |
 <!-- CATEGORY_TABLE_RU_END -->
 

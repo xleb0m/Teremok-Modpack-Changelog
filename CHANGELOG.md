@@ -18,7 +18,24 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ---
 
-## [s2-pre-alpha.0.7.0+build.1] - 2026-09-06
+## [s2-pre-alpha.0.7.1+build.11] - 2026-09-09
+### Added
+- Better Lore
+- Serene Seasons API Stub (Ecliptic Seasons Bridge)
+- Create: Dragons Plus
+- Ecliptic Seasons
+- Ecliptic Seasons : Bundles
+- Farmer's Delight
+- FarmersStructures
+- Barehanded
+- Create: Enchantment Industry
+- Gaze
+- Kaleidoscope Compat
+- Kaleidoscope Cookery
+- EMI
+---
+
+## [s2-pre-alpha.0.7.0+build.10] - 2026-09-06
 ### Added
 - Halcyon
 - Patchouli
