@@ -4,7 +4,7 @@
 |----------|---------|------------|------------|:------:|:------:|:----------------:|
 | [Abandoned Structures](https://www.curseforge.com/minecraft/mc-mods/abandoned-structures) | 1.4.0 | 2026-09-05 | 2026-09-05 |  |  | ✅ |
 | [Abyssaline Nether](https://modrinth.com/mod/abyssaline-nether) | 1.0.1 | 2026-09-05 | 2026-09-05 |  |  | ✅ |
-| Ancient Remnants | 1.0.2.1 | 2026-09-05 | 2026-09-05 |  |  | ✅ |
+| [Ancient Remnants](https://www.curseforge.com/minecraft/mc-mods/embers-ancient-remnants) | 1.0.2.1 | 2026-09-05 | 2026-09-05 |  |  | ✅ |
 | [Dungeons and Taverns Ancient City Overhaul](https://modrinth.com/mod/dungeons-and-taverns-ancient-city-overhaul) | 1-v2 | 2026-09-05 | 2026-09-05 |  |  | ✅ |
 | [Dungeons and Taverns Desert Temple Replacement](https://modrinth.com/mod/dungeons-and-taverns-desert-temple-overhaul) | 1-v1.2 | 2026-09-05 | 2026-09-05 |  |  | ✅ |
 | [Dungeons and Taverns End Castle Standalone](https://modrinth.com/mod/dungeons-and-taverns-end-castle-standalone) | 1-v1.1 | 2026-09-05 | 2026-09-05 |  |  | ✅ |

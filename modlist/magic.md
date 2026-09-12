@@ -1,5 +1,5 @@
-# Storage
+# Magic
 
 | Мод | Версия | Добавлен | Обновлён | Сервер | Клиент | Сервер и клиент |
 |----------|---------|------------|------------|:------:|:------:|:----------------:|
-| [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry) | 2.5.3b | 2026-09-09 | 2026-09-09 |  |  | ✅ |
+| [HexCast NEOFORGED](https://modrinth.com/mod/hexcast-neoforged) | 0.11.1-16+neoforge.1.21.1 | 2026-09-12 | 2026-09-12 |  |  | ✅ |

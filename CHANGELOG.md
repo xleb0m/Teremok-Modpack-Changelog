@@ -6,16 +6,19 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ---
 
-## [Unreleased]
+## [s2-pre-alpha.0.8.0+build.12] - 2026-09-12
 ### Added
-- 
-### Changed
-- 
-### Removed
-- 
-### Fixed
-- 
+- OctoLib
+- Artifacts
+- HexCast NEOFORGED
+- PAUCAL
+- Relics
+- reliquified_artifacts
 
+### Removed
+- Databank (No longer needed / doesn't fit the pack — No more needed)
+- Halcyon (No longer needed / doesn't fit the pack)
+- Lingua Mundi (No longer needed / doesn't fit the pack — Too complicated)
 ---
 
 ## [s2-pre-alpha.0.7.1+build.11] - 2026-09-09
